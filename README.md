@@ -1,4 +1,4 @@
-﻿# midterm-individual-67543210046-8
+
 # midterm-individual-67543210046-8
 # Student Management System - Layered Architecture
 
@@ -69,3 +69,4 @@ npm start
 
 ## 📝 API Endpoints
 [ระบุ API endpoints ทั้งหมด]
+
